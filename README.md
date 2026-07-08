@@ -1,3 +1,2 @@
-# LSTM-Model
-
-This Branch is designed for coding LSTM model.
+🚀 Signal Quality Prediction using LSTM
+A deep learning project that predicts Signal Quality using a Long Short-Term Memory (LSTM) neural network based on signal performance metrics.
